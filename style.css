@@ -1,0 +1,24 @@
+body {
+    background-color:red(233, 224, 224);
+    justify-content: flex;
+    align-items: center;
+    display: flex;
+    left: auto ;
+    right: auto;
+}
+
+button {
+    background-color:white;
+    border-radius:5px;
+}
+
+label {
+    background-color:white;
+    border-radius:5px;
+}
+
+input {
+    background-color: black(137, 139, 230);
+    border-radius:5px;
+
+}
